@@ -1,0 +1,6 @@
+{
+"user":["541bba76-8d22-45a4-b370-91d763d58055","Chaos_256398","92A8CABC7A56D45E9FE4B2296FC601A5"],
+"insts":[
+{"instId":"DOGE-USDT-SWAP","firstcount":10,"maxcount":2000,"addposition":-10,"maxloss":2},{"instId":"OP-USDT-SWAP","firstcount":1,"maxcount":100,"addposition":-10,"maxloss":2}
+]
+}
